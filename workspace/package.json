@@ -9,6 +9,7 @@
    "publicDir": "build",
 
    "baseDir": "frontend",
+   "homepage": "https://davesp.github.io",
 
    "environment": {
 
